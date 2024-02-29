@@ -1,0 +1,16 @@
+{
+  "name": "proj-angular-tracking-app",
+  "version": "1.0.0",
+  "description": "Package Tracking app.",
+  "main": "index.js",
+  "scripts": {
+    "start:api": "npm run start:api",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "keywords": [
+    "app"
+  ],
+  "author": "Obed",
+  "license": "ISC",
+  "dependencies": {}
+}

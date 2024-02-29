@@ -1,0 +1,23 @@
+@import "../themes";
+
+nb-layout-header {
+  background-color: nb-theme(color-primary-500);
+
+  button {
+    color: #ffffff;
+  }
+
+  nb-icon {
+    color: #ffffff;
+  }
+
+  .user-actions {
+    margin-left: auto;
+  }
+
+  .p-button-rounded {
+    &:hover {
+      color: #ffffff;
+    }
+  }
+}
